@@ -26,7 +26,7 @@ https://classify-api-production.up.railway.app/api/classify
 
 ```bash
 git clone https://github.com/joshua-emmanuel/classify-api.git
-cd classify.api
+cd classify-api
 ```
 
 ### 2. Install dependencies
